@@ -1,0 +1,25 @@
+html,
+body {
+    background: url(assets/image/matrix.png); 
+    height: 100%;
+    line-height: 160%;
+    font-size: 14px;
+    color: #8b8c8e;
+    background-color: #FFFFFF;
+    font-family: 'Koulen', cursive;;
+}
+
+.wrapper{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 25px 10px 25px 10px;
+    color: #bdbebd;
+    font-size: 25px;
+    font-family: Arial, Verdana, sans-serif;
+    text-shadow: 0 0 5px rgba(60, 60, 60, 0.5);
+    text-align: center;
+    text-transform: uppercase;
+}
